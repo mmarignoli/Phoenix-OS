@@ -1,0 +1,15 @@
+#terminal_line{
+	position:relative;
+}
+#terminal_prefix{
+	float:left;
+}
+#command_div{
+	width:90%;
+	border:0px;
+	float:left;
+}
+.terminal_input{
+	width:100%;
+	border:0px;
+}
